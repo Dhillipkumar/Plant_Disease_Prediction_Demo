@@ -1,6 +1,4 @@
 numpy
 tensorflow
-tensorflow.keras.preprocessing.image
 matplotlib
 pandas
-seaborn
