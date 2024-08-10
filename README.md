@@ -13,4 +13,4 @@ Accuracy: Our system utilizes state-of-the-art machine learning techniques for a
 User-Friendly: Simple and intuitive interface for seamless user experience.
 Fast and Efficient: Receive results in seconds, allowing for quick decision-making.
 
-Application URL : plantdiseasepredictiondemo.streamlit.app
+Application URL : [plantdiseasepredictiondemo.streamlit.app](https://plantdiseasepredictiondemo.streamlit.app/)
