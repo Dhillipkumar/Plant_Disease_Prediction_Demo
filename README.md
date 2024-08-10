@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/10e564b6-56d9-4065-9b71-b07d2cc15a9e)
+
 Welcome to the Plant Disease Recognition System! 🌿🔍
 
 Our mission is to help in identifying plant diseases efficiently. Upload an image of a plant, and our system will analyze it to detect any signs of diseases. Together, let's protect our crops and ensure a healthier harvest!
@@ -10,8 +12,5 @@ Why Choose Us?
 Accuracy: Our system utilizes state-of-the-art machine learning techniques for accurate disease detection.
 User-Friendly: Simple and intuitive interface for seamless user experience.
 Fast and Efficient: Receive results in seconds, allowing for quick decision-making.
-Get Started
-Click on the Disease Recognition page in the sidebar to upload an image and experience the power of our Plant Disease Recognition System!
 
-About Us
-Learn more about the creator, on the About page.
+Application URL : plantdiseasepredictiondemo.streamlit.app
