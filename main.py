@@ -40,21 +40,22 @@ if(app_mode=="Home"):
     Click on the **Disease Recognition** page in the sidebar to upload an image and experience the power of our Plant Disease Recognition System!
 
     ### About Us
-    Learn more about the project, our team, and our goals on the **About** page.
+    Learn more about the creator, on the **About** page.
     """)
 
 #About Project
 elif(app_mode=="About"):
-    st.header("About")
+    st.header("About Creator")
+    image_path = "Final_Pic.JPG"
+    st.image(image_path,width=250)
     st.markdown("""
-                #### About Dataset
-                This dataset is recreated using offline augmentation from the original dataset.The original dataset can be found on this github repo.
-                This dataset consists of about 87K rgb images of healthy and diseased crop leaves which is categorized into 38 different classes.The total dataset is divided into 80/20 ratio of training and validation set preserving the directory structure.
-                A new directory containing 33 test images is created later for prediction purpose.
-                #### Content
-                1. train (70295 images)
-                2. test (33 images)
-                3. validation (17572 images)
+                #### Dhillipkumar M
+                Christ University, Bangalore
+                #### Contact Details
+                Phone Number : 7639902361\n
+                Email : dhillipkumar2001@gmail.com\n
+                Linkedin : www.linkedin.com/in/dhillipkumar-m-893854193\n
+                GitHub : https://github.com/Dhillipkumar
 
                 """)
 
